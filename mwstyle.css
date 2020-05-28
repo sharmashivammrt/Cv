@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.Top-container{
+    background-color: #a4c5c6;
+    position: relative;
+    padding-top: 100px;
+    height: 100%;
+
+}
+p{
+    font-family: 'Mukta Malar', sans-serif;
+    color: #4B0082;
+}
+h1{
+    margin-top: 0px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 5.625rem;
+    color: #4B0082;
+}
+h2 {
+    color: #4B0082;
+    font-family: 'Baloo 2', cursive;
+}
+h3{
+    color: #191970 ;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.footer-link{
+    color: #191970
+    ;
+}
+
+
+
+
+.firstimage{
+    height: 350px;
+    width: 350px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.secondimg{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+}
+.thirdimg{
+    height: 200px;
+    width: 200px ;
+    position: absolute;
+    right: 150px;
+}
+.Para{
+
+    font-size: 2.5rem ;
+    
+    font-weight: normal;
+
+
+}
+.intro1{
+    margin-bottom: 3px;
+    
+}
+
+hr{
+    margin-top: 0px;
+    border-style: dotted;
+    border-style: dotted none none none;
+    width: 20%;
+    border-width: 8px;
+    border-color: darkblue;
+   /* background-color: cornflowerblue;*/
+    margin-bottom: 0px;
+}
+.intro2{
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+.profile{
+    background-color: #a4c5c6;
+
+}
+.middle-container{
+    background-color:#a4c5c6;
+
+}
+.bottom-container{
+    background-color: #a4c5c6;
+}
+.skill-row1{
+    margin-bottom: 40px;
+   /* position: relative;*/
+    margin: auto;
+    width: 50% ;
+    /*width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: auto;*/
+}
+
+.skill-row2
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  /* position: relative; */
+   margin: auto;
+   width: 50% ;
+  /* width: 50% ;
+   text-align: left;
+   margin: auto;
+   line-height: 2;*/
+}
+.skill-row3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+   /* position: relative;*/
+    margin: auto;
+    width: 50% ;
+    /*text-align: left;
+    line-height: 2;
+    */
+}
+.skill-row4{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    /*position: relative;*/
+    margin: auto;
+    width: 50% ;
+   /* width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: auto;*/
+}
+.devgif2{
+    position: absolute;
+    left: 200px;
+}
+.codegif{
+    position: absolute;
+    right: 200px;
+}
+.hellogif{
+    position: absolute;
+    left: 200px;
+}
+.sgif1{
+    position: absolute;
+    right: 200px;
+}
+.wapp{
+    display: inline-block;
+    padding-bottom: 3px;
+}
+.email{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.insta{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.skills{
+    position: relative;
+}/*
+.web-dev{
+    position: absolute;
+    left: 230px;
+    bottom: 5px;
+    top: 5px;
+}
+
+.data-ware{ position: absolute;
+    right: 230px;
+    top: 120px;
+    background-color: 18b0b0;
+
+}
+ .sql-dev{
+    position: absolute;
+    left: 230px;
+    top: 240px;
+}
+.voip{
+    position: absolute;
+    right: 230px;
+    top: 355px;
+}
+*//*
+.web-dev{
+    float: left;
+    margin-right: 30px;
+}
+.data-ware{
+    float: right;
+    margin-left: 30px;
+
+}
+.sql-dev{
+    float: left;
+    margin-right: 30px;
+}
+.voip{
+    float: right;
+    margin-left: 30px;
+}*/
